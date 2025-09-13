@@ -42,4 +42,8 @@ Run the main interface:
 
 python main.py
 
+
+Uploading HandSignAndLinguisticTranslation.mp4…
+
+
 Use your hand to show ASL signs, which will be recognized and translated in real-time into sentences with voice feedback.
